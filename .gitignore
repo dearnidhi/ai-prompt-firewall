@@ -1,0 +1,31 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyd
+
+# --------------------
+# Virtual Environments
+# --------------------
+myenv/
+venv/
+.venv/
+.env/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Logs & runtime data
+# --------------------
+data/logs.json
+data/embeddings_cache.pkl
+
+# --------------------
+# Streamlit cache
+# --------------------
+.streamlit/
